@@ -1,0 +1,5 @@
+plan_id,plan_name,price_inr,billing_cycle,max_screens,video_quality,includes_ads
+P1,Prime Monthly,299,Monthly,2,HD,False
+P2,Prime Annual,1499,Yearly,2,HD,False
+P3,Prime Lite,799,Yearly,1,SD,True
+P4,Prime Video Mobile Edition,599,Yearly,1,SD,True
