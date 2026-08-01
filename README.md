@@ -13,6 +13,7 @@ This project is an end-to-end Prime Video Analytics solution built using **Pytho
 - Power BI
 - DAX
 
+>> **Note:** Some CSV files are too large for GitHub's online preview. You can download them directly from this repository.
 ---
 
 ## 📂 Dataset
